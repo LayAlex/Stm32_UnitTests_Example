@@ -29,7 +29,7 @@
 		<link>
 			<name>Common</name>
 			<type>2</type>
-			<location>C:/Users/home/Desktop/Projects/Stm32_UnitTests_Example/Application/Core/Common</location>
+			<location>C:/Users/home/Desktop/Stm32_UnitTests_Example/Application/Core/Common</location>
 		</link>
 	</linkedResources>
 </projectDescription>
