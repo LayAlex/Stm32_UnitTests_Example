@@ -5,7 +5,11 @@ Example how to use unit tests for embedded code. Unit tests placed in separated 
 1. setup software as described below 
 https://habr.com/ru/post/469367/
 
-2. didn't managed to run unit tests as described, decided just to create separated console project that referenced to Project *.cpp files for testing
+you need:
+- Cygwin
+- STM32CubeIDE
+
+2. didn't managed to run unit tests with GoogleTest as described, decided just to create separated console project that referenced to Project *.cpp files for testing
 3. After project created specify path to source files as in picture.
 4. Write tests
 5. Run
